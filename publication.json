@@ -1,0 +1,16 @@
+{
+  "source_notebook": "Mortgage_Default_All_In_One_with_business (1).ipynb",
+  "source_sha256": "e6dfba2f420c2e5ba79287dfa0b46c49583a3bdb9f5ff978ff50e4038e9c5374",
+  "publication_date": "2026-11-06",
+  "original_cells": 94,
+  "original_executed_code_cells": 34,
+  "original_unexecuted_code_cells": 16,
+  "fresh_end_to_end_execution": false,
+  "validation": "nbformat schema, transformed IPython code syntax, Python AST, Orange XML where present",
+  "publication_changes": [
+    "Runtime output containing local paths cleared",
+    "Widget/execution metadata cleaned",
+    "Modeling code preserved",
+    "Execution status clarified"
+  ]
+}
